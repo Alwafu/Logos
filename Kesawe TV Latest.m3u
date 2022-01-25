@@ -1,0 +1,471 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="beINSports1.mena" tvg-name="beINSports1.mena" tvg-logo="http://mijn.me/logo/galery/beinsports1.png" group-title="beIN Sports Network",beIN Sports 1 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/111612
+#EXTINF:-1 tvg-chno="2" tvg-id="beINSports2.mena" tvg-name="beINSports2.mena" tvg-logo="http://mijn.me/logo/galery/beinsports2.png" group-title="beIN Sports Network",beIN Sports 2 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/111620
+#EXTINF:-1 tvg-chno="3" tvg-id="beINSports3.mena" tvg-name="beINSports3.mena" tvg-logo="http://mijn.me/logo/galery/beinsports3.png" group-title="beIN Sports Network",beIN Sports 3 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/111625
+#EXTINF:-1 tvg-chno="4" tvg-id="beINSports4.mena" tvg-name="beINSports4.mena" tvg-logo="http://mijn.me/logo/galery/beinsports4.png" group-title="beIN Sports Network",beIN Sports 4 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/111627
+#EXTINF:-1 tvg-chno="5" tvg-id="beINSports5.mena" tvg-name="beINSports5.mena" tvg-logo="http://mijn.me/logo/galery/beinsports5.png" group-title="beIN Sports Network",beIN Sports 5 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/111632
+#EXTINF:-1 tvg-chno="6" tvg-id="beINSports6.mena" tvg-name="beINSports6.mena" tvg-logo="http://mijn.me/logo/galery/beinsports6.png" group-title="beIN Sports Network",beIN Sports 6 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/111639
+#EXTINF:-1 tvg-chno="7" tvg-id="beINSports7.mena" tvg-name="beINSports7.mena" tvg-logo="http://mijn.me/logo/galery/beinsports7.png" group-title="beIN Sports Network",beIN Sports 7 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/111642
+#EXTINF:-1 tvg-chno="8" tvg-id="beINSports1EN.mena" tvg-name="beINSports1EN.mena" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="beIN Sports Network",beIN Sports English 1 HD
+http://ott4k.me:8000/50641961131729/63217243979037/156449
+#EXTINF:-1 tvg-chno="9" tvg-id="beINSports2EN.mena" tvg-name="beINSports2EN.mena" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="beIN Sports Network",beIN Sports English 2 HD
+http://ott4k.me:8000/50641961131729/63217243979037/156447
+#EXTINF:-1 tvg-chno="10" tvg-id="beINSports3EN.mena" tvg-name="beINSports3EN.mena" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png" group-title="beIN Sports Network",beIN Sports English 3 HD
+http://ott4k.me:8000/50641961131729/63217243979037/158821
+#EXTINF:-1 tvg-chno="11" tvg-id="beINSports1FR.mena" tvg-name="beINSports1FR.mena" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F216%2Fbein-sports-french-1.png" group-title="beIN Sports Network",beIN Sports French 1 HD
+http://ott4k.me:8000/50081010362823/30185276615626/156435
+#EXTINF:-1 tvg-chno="12" tvg-id="beINSports2FR.mena" tvg-name="beINSports2FR.mena" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f211%2fbein-sports-french-1.png" group-title="beIN Sports Network",beIN Sports French 2 HD
+http://ott4k.me:8000/50081010362823/30185276615626/156434
+#EXTINF:-1 tvg-chno="13" tvg-id="beINSports3FR.mena" tvg-name="beINSports3FR.mena" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F362%2Fbein-sports-french-1.png" group-title="beIN Sports Network",beIN Sports French 3 HD
+http://ott4k.me:8000/50081010362823/30185276615626/156433
+#EXTINF:-1 tvg-chno="14" tvg-id="beINSportsGlobal.mena" tvg-name="beINSportsGlobal.mena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg" group-title="beIN Sports Network",beIN Sports Global HD
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/33275
+#EXTINF:-1 tvg-chno="15" tvg-id="beINSports1Premium.mena" tvg-name="beINSports1Premium.mena" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="beIN Sports Network",beIN Sports Premium 1 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/111599
+#EXTINF:-1 tvg-chno="16" tvg-id="beINSports2Premium.mena" tvg-name="beINSports2Premium.mena" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="beIN Sports Network",beIN Sports Premium 2 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/111604
+#EXTINF:-1 tvg-chno="17" tvg-id="beINSports3Premium.mena" tvg-name="beINSports3Premium.mena" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f894%2fbein-sports-premium-1.png" group-title="beIN Sports Network",beIN Sports Premium 3 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/111609
+#EXTINF:-1 tvg-chno="18" tvg-id="BeInSportMax4.fr" tvg-name="BeInSportMax4.fr" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png" group-title="beIN Sports Network",beIN SPORTS Max 1 HD
+http://ott4k.me:8000/50081010362823/30185276615626/176187
+#EXTINF:-1 tvg-chno="19" tvg-id="BeInSportMax4.fr" tvg-name="BeInSportMax4.fr" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="beIN Sports Network",beIN SPORTS Max 2 HD
+http://ott4k.me:8000/50081010362823/30185276615626/176186
+#EXTINF:-1 tvg-chno="20" tvg-id="BeInSportMax4.fr" tvg-name="BeInSportMax4.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Bein-sports-max-3_1v5w0eus6ylho1rv2zxzeozee9-1-.jpg/revision/latest/scale-to-width-down/250?cb=20140414165136" group-title="beIN Sports Network",beIN SPORTS Max 3 HD
+http://ott4k.me:8000/50081010362823/30185276615626/176185
+#EXTINF:-1 tvg-chno="21" tvg-id="BeInSportMax4.fr" tvg-name="BeInSportMax4.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/BE_IN_SPORT_MAX_4_2017.png/revision/latest/scale-to-width-down/200?cb=20191022181322" group-title="beIN Sports Network",beIN SPORTS Max 4 HD
+http://ott4k.me:8000/50081010362823/30185276615626/176184
+#EXTINF:-1 tvg-chno="22" tvg-id="BeInSportMax5.fr" tvg-name="BeInSportMax5.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/BE_IN_SPORT_MAX_5_2017.png/revision/latest/scale-to-width-down/200?cb=20191022181625" group-title="beIN Sports Network",beIN SPORTS Max 5 HD
+http://ott4k.me:8000/50081010362823/30185276615626/176183
+#EXTINF:-1 tvg-chno="23" tvg-id="BeInSportMax6.fr" tvg-name="BeInSportMax6.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/BE_IN_SPORT_MAX_6_2017.png/revision/latest?cb=20191022182349" group-title="beIN Sports Network",beIN SPORTS Max 6 HD
+http://ott4k.me:8000/50081010362823/30185276615626/176182
+#EXTINF:-1 tvg-chno="24" tvg-id="beINSportsXtra1.mena" tvg-name="beINSportsXtra1.mena" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F895%2Fbein-sports-xtra-1.png" group-title="beIN Sports Network",beIN SPORTS XTRA 1 HD
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/216540
+#EXTINF:-1 tvg-chno="25" tvg-id="beINSportsXtra2.mena" tvg-name="beINSportsXtra2.mena" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F896%2Fbein-sports-xtra-1.png" group-title="beIN Sports Network",beIN SPORTS XTRA 2 HD
+http://ott4k.me:8000/50081010362823/30185276615626/161969
+#EXTINF:-1 tvg-chno="26" tvg-id="AmericanHeroesChannel.us" tvg-name="AmericanHeroesChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/2560px-American_Heroes_Channel_logo.svg.png" group-title="Documentaries",American Heroes Channel
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/10972
+#EXTINF:-1 tvg-chno="27" tvg-id="AnimalPlanet.us" tvg-name="AnimalPlanet.us" tvg-logo="http://mijn.me/logo/galery/animalplanet.png" group-title="Documentaries",Animal Planet
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/26670
+#EXTINF:-1 tvg-chno="28" tvg-id="CGTN.es" tvg-name="CGTN.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentaries",CGTN Documentaries
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-id="CookingChannel.us" tvg-name="CookingChannel.us" tvg-logo="https://www.pngkey.com/png/detail/134-1342882_the-cooking-channel-logo-designs-cooking-channel-logo.png" group-title="Documentaries",Cooking Channel
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11639
+#EXTINF:-1 tvg-chno="30" tvg-id="" tvg-name="Court TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="Documentaries",Court TV
+https://content.uplynk.com/channel/87c82188ea944bcb961c34236b9648b0.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-id="CrimeandInvestigationNetwork.us" tvg-name="CrimeandInvestigationNetwork.us" tvg-logo="http://mijn.me/logo/galery/crimeandinvestigation.png" group-title="Documentaries",Crime & Investigation
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/19396
+#EXTINF:-1 tvg-chno="32" tvg-id="" tvg-name="Demand Africa" tvg-logo="https://www.demandafrica.com/wp-content/uploads/2016/09/demandAfricalogo_horizontal_white.png" group-title="Documentaries",Demand Africa
+https://demandafrica-oando.amagi.tv/playlistR432p.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-id="DestinationAmerica.us" tvg-name="DestinationAmerica.us" tvg-logo="https://img.favpng.com/25/10/20/logo-destination-america-brand-television-channel-png-favpng-4V6AycsZH3X6Ua9mBHhJHJzCq.jpg" group-title="Documentaries",Destination America
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9690
+#EXTINF:-1 tvg-chno="34" tvg-id="DiscoveryChannel.us" tvg-name="DiscoveryChannel.us" tvg-logo="http://mijn.me/logo/galery/discoverychannel.png" group-title="Documentaries",Discovery Channel
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/19390
+#EXTINF:-1 tvg-chno="35" tvg-id="DiscoveryHistory.uk" tvg-name="DiscoveryHistory.uk" tvg-logo="http://logok.org/wp-content/uploads/2014/10/Discovery-History-logo.png" group-title="Documentaries",Discovery History
+http://ott4k.me:8000/50081010362823/30185276615626/85430
+#EXTINF:-1 tvg-chno="36" tvg-id="Home.uk" tvg-name="Home.uk" tvg-logo="http://mijn.me/logo/galery/discoveryhomeandhealth.png" group-title="Documentaries",Discovery Home & Health
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/20932
+#EXTINF:-1 tvg-chno="37" tvg-id="DiscoveryScience.us" tvg-name="DiscoveryScience.us" tvg-logo="http://mijn.me/logo/galery/discoveryscience-clivebesle.png" group-title="Documentaries",Discovery Science
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/15175
+#EXTINF:-1 tvg-chno="38" tvg-id="DiscoveryLife.us" tvg-name="DiscoveryLife.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Discovery_Life_2016_logo.svg/revision/latest/scale-to-width-down/73?cb=20170826004537" group-title="Documentaries",Discovery Life
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11912
+#EXTINF:-1 tvg-chno="39" tvg-id="DiscoveryTurbo.uk" tvg-name="DiscoveryTurbo.uk" tvg-logo="http://mijn.me/logo/galery/discoveryturbo.png" group-title="Documentaries",Discovery Turbo UK
+http://ott4k.me:8000/50081010362823/30185276615626/85432
+#EXTINF:-1 tvg-chno="40" tvg-id="DIYNetwork.us" tvg-name="DIYNetwork.us" tvg-logo="https://www.pngkey.com/png/detail/230-2300933_diy-diy-network-logo.png" group-title="Documentaries",DIY Network
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17444
+#EXTINF:-1 tvg-chno="41" tvg-id="EEntertainment.us" tvg-name="EEntertainment.us" tvg-logo="http://mijn.me/logo/galery/eentertainment.png" group-title="Documentaries",E! UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/42900
+#EXTINF:-1 tvg-chno="42" tvg-id="FoodNetwork.us" tvg-name="FoodNetwork.us" tvg-logo="http://mijn.me/logo/galery/foodnetwork.png" group-title="Documentaries",Food Network
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11901
+#EXTINF:-1 tvg-chno="43" tvg-id="History.us" tvg-name="History.us" tvg-logo="http://mijn.me/logo/galery/history.png" group-title="Documentaries",History
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/16767
+#EXTINF:-1 tvg-chno="44" tvg-id="" tvg-name="Humanity Documentaries" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/HUMANITY.png/revision/latest/scale-to-width-down/200?cb=20191030034135" group-title="Documentaries",Humanity Documentaries
+https://alchimie-humanity-documentaries-uk-rakuten.amagi.tv/playlist360_p.m3u8
+#EXTINF:-1 tvg-chno="45" tvg-id="InvestigationDiscovery.us" tvg-name="InvestigationDiscovery.us" tvg-logo="http://mijn.me/logo/galery/investigationdiscoveryhd.png" group-title="Documentaries",Investigation Discovery
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/8242
+#EXTINF:-1 tvg-chno="46" tvg-id="CrimeandInvestigationNetwork.us" tvg-name="CrimeandInvestigationNetwork.us" tvg-logo="https://i.ytimg.com/vi/z9h9NZnupTQ/mqdefault.jpg" group-title="Documentaries",Law and Crime
+https://lawcrime.s.llnwi.net/h24/lawcrimech1/360p-playlist.m3u8
+#EXTINF:-1 tvg-chno="47" tvg-id="NationalGeographic.us" tvg-name="NationalGeographic.us" tvg-logo="http://mijn.me/logo/galery/nationalgeographic.png" group-title="Documentaries",National Geographic
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24795
+#EXTINF:-1 tvg-chno="48" tvg-id="NatGeoWild.us" tvg-name="NatGeoWild.us" tvg-logo="http://mijn.me/logo/galery/nationalgeographicwild.png" group-title="Documentaries",National Geographic Wild
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/25364
+#EXTINF:-1 tvg-chno="49" tvg-id="ReelzChannel.us" tvg-name="ReelzChannel.us" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRLewmdXgfWLq1ltOicvjfeNJdMCWXcWapD2TgULw=s900-c-k-c0x00ffffff-no-rj" group-title="Documentaries",Reel Truth Crime
+https://endemol-reeltruthcrime-1-us.roku.wurl.tv/1200.m3u8
+#EXTINF:-1 tvg-chno="50" tvg-id="Smithsonian.us" tvg-name="Smithsonian.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Smithsonian_Channel_2014.svg/revision/latest/scale-to-width-down/300?cb=20171121235002" group-title="Documentaries",Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-id="TravelChannel.us" tvg-name="TravelChannel.us" tvg-logo="https://www.logolynx.com/images/logolynx/c4/c482da0723734fb115a57c956468312b.jpeg" group-title="Documentaries",Travel Channel US
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/10964
+#EXTINF:-1 tvg-chno="52" tvg-id="" tvg-name="Bahari FM" tvg-logo="https://citizen-digital-cms-files.s3.amazonaws.com/805/baharifm-logo.png" group-title="Kenyan Radio Channels",Bahari FM
+https://61115b0a477b5.streamlock.net:8443/baharifm/baharifm/chunklist_w1553903184.m3u8
+#EXTINF:-1 tvg-chno="53" tvg-id="" tvg-name="BBC World Service" tvg-logo="" group-title="Kenyan Radio Channels",BBC World Service
+https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
+#EXTINF:-1 tvg-chno="54" tvg-id="" tvg-name="Borana FM" tvg-logo="https://citizen-digital-cms-files.s3.amazonaws.com/8413/magalata.jpg" group-title="Kenyan Radio Channels",Borana FM
+https://61115b0a477b5.streamlock.net:8443/boranafm/boranafm/chunklist_w1010878645.m3u8
+#EXTINF:-1 tvg-chno="55" tvg-id="" tvg-name="Chamgei FM" tvg-logo="https://citizen-digital-cms-files.s3.amazonaws.com/1609/Chamgei-Logo.png" group-title="Kenyan Radio Channels",Chamgei FM
+https://61115b0a477b5.streamlock.net:8443/chamgeifm/chamgeifm/playlist.m3u8
+#EXTINF:-1 tvg-chno="56" tvg-id="" tvg-name="Egesa FM" tvg-logo="https://citizen-digital-cms-files.s3.amazonaws.com/823/egesafm-logo.png" group-title="Kenyan Radio Channels",Egesa FM
+https://61115b0a477b5.streamlock.net:8443/egesafm/egesafm/chunklist_w585341977.m3u8
+#EXTINF:-1 tvg-chno="57" tvg-id="" tvg-name="Hot96 Nairobi" tvg-logo="https://citizen-digital-cms-files.s3.amazonaws.com/1084/hot-96.png" group-title="Kenyan Radio Channels",Hot96 Nairobi
+https://61115b0a477b5.streamlock.net:8443/hot96fm/hot96fm/chunklist_w156865584.m3u8
+#EXTINF:-1 tvg-chno="58" tvg-id="" tvg-name="Inooro FM" tvg-logo="https://citizen-digital-cms-files.s3.amazonaws.com/817/inoorofm-logo.png" group-title="Kenyan Radio Channels",Inooro FM
+https://61115b0a477b5.streamlock.net:8443/inoorofm/inoorofm/chunklist_w1009011161.m3u8
+#EXTINF:-1 tvg-chno="59" tvg-id="" tvg-name="Mulembe FM" tvg-logo="https://citizen-digital-cms-files.s3.amazonaws.com/808/mulembefm-logo.png" group-title="Kenyan Radio Channels",Mulembe FM
+https://61115b0a477b5.streamlock.net:8443/mulembefm/mulembefm/chunklist_w1022120684.m3u8
+#EXTINF:-1 tvg-chno="60" tvg-id="" tvg-name="Musyi FM" tvg-logo="https://citizen-digital-cms-files.s3.amazonaws.com/814/musyifm-logo.png" group-title="Kenyan Radio Channels",Musyi FM
+https://61115b0a477b5.streamlock.net:8443/radiocitizen/radiocitizen/chunklist_w2114673183.m3u8
+#EXTINF:-1 tvg-chno="61" tvg-id="" tvg-name="Muuga FM" tvg-logo="https://citizen-digital-cms-files.s3.amazonaws.com/799/muugafm-logo.png" group-title="Kenyan Radio Channels",Muuga FM
+https://61115b0a477b5.streamlock.net:8443/muugafm/muugafm/chunklist_w1798665016.m3u8
+#EXTINF:-1 tvg-chno="62" tvg-id="" tvg-name="Nation FM" tvg-logo="https://www.kenyamoja.com/sites/default/files/filefield_paths/nation.jpg" group-title="Kenyan Radio Channels",Nation FM
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.kenyamoja.com/radio/nation-fm
+#EXTINF:-1 tvg-chno="63" tvg-id="" tvg-name="NRG Radio" tvg-logo="https://www.kenyamoja.com/sites/default/files/filefield_paths/NRG%20RADIO%20KM.jpg" group-title="Kenyan Radio Channels",NRG Radio
+https://streamlink-iptv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/nrgradioke
+#EXTINF:-1 tvg-chno="64" tvg-id="" tvg-name="Radio Citizen" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2013/09/radio-citizen-1-220x108.jpg" group-title="Kenyan Radio Channels",Radio Citizen
+https://61115b0a477b5.streamlock.net:8443/radiocitizen/radiocitizen/chunklist_w2114673183.m3u8
+#EXTINF:-1 tvg-chno="65" tvg-id="" tvg-name="Radio Waumini Nairobi" tvg-logo="https://cdn.webrad.io/images/logos/radio-or-ke/waumini.png" group-title="Kenyan Radio Channels",Radio Waumini Nairobi
+https://streamlink-iptv.herokuapp.com/iptv-query?streaming-ip=https://mytuner-radio.com/radio/kubamba-radio-458349/
+#EXTINF:-1 tvg-chno="66" tvg-id="" tvg-name="Ramogi FM" tvg-logo="https://citizen-digital-cms-files.s3.amazonaws.com/1083/ramogi.png" group-title="Kenyan Radio Channels",Ramogi FM
+https://61115b0a477b5.streamlock.net:8443/ramogifm/ramogifm/chunklist_w1811075909.m3u8
+#EXTINF:-1 tvg-chno="67" tvg-id="" tvg-name="Spice FM" tvg-logo="https://www.standardmedia.co.ke/spicefm/assets/img/spice.png" group-title="Kenyan Radio Channels",Spice FM
+https://stream-02.ix7.dailymotion.com/sec(UcClT0X5V1hUlWimuq39DpdVHU4HJvLHES-SV62QGT0)/dm/3/x7eo9oe/d/live-1.m3u8#cell=lcore
+#EXTINF:-1 tvg-chno="68" tvg-id="" tvg-name="Sulwe FM" tvg-logo="https://citizen-digital-cms-files.s3.amazonaws.com/820/sulwefm-logo.png" group-title="Kenyan Radio Channels",Sulwe FM
+https://61115b0a477b5.streamlock.net:8443/sulwefm/sulwefm/chunklist_w2043646263.m3u8
+#EXTINF:-1 tvg-chno="69" tvg-id="" tvg-name="Vuuka FM" tvg-logo="https://citizen-digital-cms-files.s3.amazonaws.com/811/vuukafm-logo.png" group-title="Kenyan Radio Channels",Vuuka FM
+https://61115b0a477b5.streamlock.net:8443/vuukafm/vuukafm/chunklist_w353399112.m3u8
+#EXTINF:-1 tvg-chno="70" tvg-id="" tvg-name="Wimwaro FM" tvg-logo="https://citizen-digital-cms-files.s3.amazonaws.com/5031/wimwaro.png" group-title="Kenyan Radio Channels",Wimwaro FM
+https://61115b0a477b5.streamlock.net:8443/wimwarofm/wimwarofm/chunklist_w2117391617.m3u8
+#EXTINF:-1 tvg-chno="71" tvg-id="" tvg-name="Citizen TV" tvg-logo="https://wildlifedirect.org/wp-content/uploads/2020/03/Citizen-TV-Logos.jpg" group-title="Kenyan TV Channels",Citizen TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=v_52xq_J4no
+#EXTINF:-1 tvg-chno="72" tvg-id="" tvg-name="Ebru TV" tvg-logo="https://image.pitchbook.com/LM8MEjvWn9l9QxyvI8oDFW1Sncn1605453813822_200x200" group-title="Kenyan TV Channels",Ebru TV
+https://www.dailymotion.com/cdn/live/video/x67n3k1.m3u8?sec=sAKIsSPtNVKfup4vk5sFiB4qk7I2WGid3JwP4F9cqX-QHgNMsPzEjuxpMe4bSYgW1uj6s8Y_qOGjyxCHuzhWaA&dmTs=20057&dmV1st=B9B8A8B0B564A1368B9D2CF69A1EE8BB
+#EXTINF:-1 tvg-chno="73" tvg-id="" tvg-name="Farmers  TV Kenya" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktn-farmers-tv-ke.png" group-title="Kenyan TV Channels",Farmers  TV Kenya
+https://stream-05.ix7.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql5657EhMQEX35v_DKu2v6T3i-o)/dm/3/x7opfez/s/live-1.m3u8#cell=lcore
+#EXTINF:-1 tvg-chno="74" tvg-id="" tvg-name="GBS TV Africa" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ke-gbs.jpg" group-title="Kenyan TV Channels",GBS TV Africa
+https://goliveafrica.media:9998/live/6045ccbac3484/index.m3u8
+#EXTINF:-1 tvg-chno="75" tvg-id="" tvg-name="Horizon TV Kenya" tvg-logo="https://horizontv.co.ke/assets/images/horizon-tv-logo-1.png" group-title="Kenyan TV Channels",Horizon TV Kenya
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/horizontvkenya
+#EXTINF:-1 tvg-chno="76" tvg-id="" tvg-name="Inooro TV" tvg-logo="https://royalmedia.s3.amazonaws.com/wp-content/uploads/2019/10/inoorotv.jpg" group-title="Kenyan TV Channels",Inooro TV
+https://74937.global.ssl.fastly.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8
+#EXTINF:-1 tvg-chno="77" tvg-id="" tvg-name="K24 TV" tvg-logo="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.k24tv.co.ke/wp-content/uploads/2019/09/k24-1.png" group-title="Kenyan TV Channels",K24 TV
+https://www.k24tv.co.ke/wp-content/uploads/2019/09/k24-1.png" group-title="Kenyan TV Channels",K24 TV
+#EXTINF:-1 tvg-chno="78" tvg-id="" tvg-name="Kameme TV" tvg-logo="https://www.kamemetv.co.ke/wp-content/uploads/2020/08/Kameme-TV-Logo.png" group-title="Kenyan TV Channels",Kameme TV
+https://stream-07.ix7.dailymotion.com/sec(nitAgzxq_qCa0CId9XzFHzMaseyFfEX3lVoOIwYRCg0)/dm/3/x6ol8sj/d/live-1.m3u8
+#EXTINF:-1 tvg-chno="79" tvg-id="" tvg-name="Kass TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ke-kass-tv.jpg" group-title="Kenyan TV Channels",Kass TV
+https://goliveafrica.media:9998/live/60755313b36db/index.m3u8
+#EXTINF:-1 tvg-chno="80" tvg-id="" tvg-name="KBC Channel 1" tvg-logo="https://pbs.twimg.com/profile_images/1407017602594000902/qMKK7G6M_400x400.jpg" group-title="Kenyan TV Channels",KBC Channel 1
+https://goliveafrica.media:9998/live/61c19125daddf/index.m3u8
+#EXTINF:-1 tvg-chno="81" tvg-id="" tvg-name="KTN Home" tvg-logo="https://afriktv.files.wordpress.com/2017/11/download17.png" group-title="Kenyan TV Channels",KTN Home
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=D8OoAM8s1NY
+#EXTINF:-1 tvg-chno="82" tvg-id="" tvg-name="KTN News Live" tvg-logo="https://www.kenyamoja.com/sites/default/files/images/watchktnnewsmain.png" group-title="Kenyan TV Channels",KTN News Live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=Nq_lTlUrdok
+#EXTINF:-1 tvg-chno="83" tvg-id="" tvg-name="Lolwe TV" tvg-logo="" group-title="Kenyan TV Channels",Lolwe TV
+https://goliveafrica.media:9998/live/61a74245bf958/index.m3u8
+#EXTINF:-1 tvg-chno="84" tvg-id="" tvg-name="NTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/NTV_%28Kenya%29_logo.png/190px-NTV_%28Kenya%29_logo.png" group-title="Kenyan TV Channels",NTV Live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=IZ55rPr8gKs
+#EXTINF:-1 tvg-chno="85" tvg-id="" tvg-name="Ramogi TV" tvg-logo="https://citizen-digital-cms-files.s3.amazonaws.com/6949/ramogitv-web.jpg" group-title="Kenyan TV Channels",Ramogi TV
+https://74937.global.ssl.fastly.net/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8
+#EXTINF:-1 tvg-chno="86" tvg-id="" tvg-name="TV47 Kenya" tvg-logo="https://www.mku.ac.ke/wp-content/uploads/2021/06/TV-47-Logo-with-Slogan-300x164.png" group-title="Kenyan TV Channels",TV47 Kenya
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tv47kenya
+#EXTINF:-1 tvg-chno="87" tvg-id="" tvg-name="UTV Kenya" tvg-logo="https://www.utv.ke/wp-content/uploads/2021/04/utv-logo-small.png" group-title="Kenyan TV Channels",UTV Kenya
+https://goliveafrica.media:9998/live/6049f726546e1/index.m3u8
+#EXTINF:-1 tvg-chno="88" tvg-id="BabyTV.uk" tvg-name="BabyTV.uk" tvg-logo="http://mijn.me/logo/galery/babytv.png" group-title="Kids and Family Channels",Baby HD
+http://ott4k.me:8000/50049700548378/18621007927993/48819
+#EXTINF:-1 tvg-chno="89" tvg-id="Boomerang.uk" tvg-name="Boomerang.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg/revision/latest/scale-to-width-down/250?cb=20171112110326" group-title="Kids and Family Channels",Boomerang
+http://ott4k.me:8000/50081010362823/30185276615626/48820
+#EXTINF:-1 tvg-chno="90" tvg-id="CartoonNetwork.us" tvg-name="CartoonNetwork.us" tvg-logo="http://mijn.me/logo/galery/cartoonnetwork.png" group-title="Kids and Family Channels",Cartoon Network HD
+http://ott4k.me:8000/50081010362823/30185276615626/75124
+#EXTINF:-1 tvg-chno="91" tvg-id="Cartoonito.uk" tvg-name="Cartoonito.uk" tvg-logo="http://mijn.me/logo/galery/cartoonito.png" group-title="Kids and Family Channels",Cartoonito HD
+http://ott4k.me:8000/50365941538985/32217868463428/48822
+#EXTINF:-1 tvg-chno="92" tvg-id="ComedyCentral.us" tvg-name="ComedyCentral.us" tvg-logo="http://mijn.me/logo/galery/comedycentral.png" group-title="Kids and Family Channels",Comedy Central 4K+
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211171
+#EXTINF:-1 tvg-chno="93" tvg-id="DiscoveryFamilia.us" tvg-name="DiscoveryFamilia.us" tvg-logo="http://mijn.me/logo/galery/discoveryfamily.png" group-title="Kids and Family Channels",Discovery Family HD
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211409
+#EXTINF:-1 tvg-chno="94" tvg-id="DisneyChannel.us" tvg-name="DisneyChannel.us" tvg-logo="http://mijn.me/logo/galery/disneychannel.png" group-title="Kids and Family Channels",Disney Channel HD
+http://ott4k.me:8000/50081010362823/30185276615626/75167
+#EXTINF:-1 tvg-chno="95" tvg-id="DisneyJr.us" tvg-name="DisneyJr.us" tvg-logo="http://mijn.me/logo/galery/disneyjunior.png" group-title="Kids and Family Channels",Disney Junior HD
+http://ott4k.me:8000/50081010362823/30185276615626/75239
+#EXTINF:-1 tvg-chno="96" tvg-id="DisneyXD.us" tvg-name="DisneyXD.us" tvg-logo="http://mijn.me/logo/galery/disneyxd.png" group-title="Kids and Family Channels",Disney XD FHD
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211419
+#EXTINF:-1 tvg-chno="97" tvg-id="NickJr.us" tvg-name="NickJr.us" tvg-logo="http://mijn.me/logo/galery/nickjr.png" group-title="Kids and Family Channels",Nick JR HD
+http://ott4k.me:8000/50081010362823/30185276615626/75145
+#EXTINF:-1 tvg-chno="98" tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon.uk" tvg-logo="http://mijn.me/logo/galery/nickelodeon.png" group-title="Kids and Family Channels",Nickelodeon HD UK
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/94465
+#EXTINF:-1 tvg-chno="99" tvg-id="Nicktoons.us" tvg-name="Nicktoons.us" tvg-logo="http://mijn.me/logo/galery/nicktoons.png" group-title="Kids and Family Channels",Nicktoons HD
+http://ott4k.me:8000/50081010362823/30185276615626/85480
+#EXTINF:-1 tvg-chno="100" tvg-id="PBSKids.us" tvg-name="PBSKids.us" tvg-logo="http://mijn.me/logo/galery/pbs.png" group-title="Kids and Family Channels",PBS Kids
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211294
+#EXTINF:-1 tvg-chno="101" tvg-id="STARZKidsandFamily.us" tvg-name="STARZKidsandFamily.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Starz%21_Family_2000.svg/revision/latest/scale-to-width-down/200?cb=20100312202757" group-title="Kids and Family Channels",Starz Kids & Family
+http://ott4k.me:8000/50081010362823/30185276615626/75302
+#EXTINF:-1 tvg-chno="102" tvg-id="ABC.us" tvg-name="ABC.us" tvg-logo="http://mijn.me/logo/galery/abcnews.png" group-title="News Channels",ABC News
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211154
+#EXTINF:-1 tvg-chno="103" tvg-id="AlJazeera.us" tvg-name="AlJazeera.us" tvg-logo="http://mijn.me/logo/galery/aljazeera.png" group-title="News Channels",Aljazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-chno="104" tvg-id="BBCNews.uk" tvg-name="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/150px-BBC_News_2019.svg.png" group-title="News Channels",BBC News
+https://photocall.tv/k1js/ftv.m3u8?ch=bbcnews
+#EXTINF:-1 tvg-chno="105" tvg-id="BBCParliament.uk" tvg-name="BBCParliament.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/1280px-BBC_Parliament_Logo.svg.png" group-title="News Channels",BBC Parliament
+https://photocall.tv/k1js/ftv.m3u8?ch=bbcparliament
+#EXTINF:-1 tvg-chno="106" tvg-id="BBCWorldNews.us" tvg-name="BBCWorldNews.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/BBC_World_News_2022.svg/revision/latest/scale-to-width-down/66?cb=20211121114323" group-title="News Channels",BBC World News
+https://photocall.tv/k1js/ftv.m3u8?ch=bbcworld
+#EXTINF:-1 tvg-chno="107" tvg-id="Bloomberg.us" tvg-name="Bloomberg.us" tvg-logo="http://mijn.me/logo/galery/bloomberg.png" group-title="News Channels",Bloomberg HD
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 tvg-chno="108" tvg-id="CGTN.es" tvg-name="CGTN.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="News Channels",CGTN News
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-chno="109" tvg-id="CheddarBusiness.us" tvg-name="CheddarBusiness.us" tvg-logo="http://mijn.me/logo/galery/cheddar.png" group-title="News Channels",Cheddar Buisness
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211278
+#EXTINF:-1 tvg-chno="110" tvg-id="CNBCWorld.us" tvg-name="CNBCWorld.us" tvg-logo="http://mijn.me/logo/galery/cnbc.png" group-title="News Channels",CNBC World
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211074
+#EXTINF:-1 tvg-chno="111" tvg-id="CNNInternational.us" tvg-name="CNNInternational.us" tvg-logo="http://mijn.me/logo/galery/cnn.png" group-title="News Channels",CNN International
+http://ott4k.me:8000/50918624998069/62243231350210/85422
+#EXTINF:-1 tvg-chno="112" tvg-id="CNN.us" tvg-name="CNN.us" tvg-logo="http://mijn.me/logo/galery/cnn.png" group-title="News Channels",CNN UK
+http://ott4k.me:8000/50918624998069/62243231350210/85422
+#EXTINF:-1 tvg-chno="113" tvg-id="CNN.us" tvg-name="CNN.us" tvg-logo="http://mijn.me/logo/galery/cnn.png" group-title="News Channels",CNN US
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/8248
+#EXTINF:-1 tvg-chno="114" tvg-id="DeutscheWelle.de" tvg-name="DeutscheWelle.de" tvg-logo="http://mijn.me/logo/galery/deutschewelle.png" group-title="News Channels",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-chno="115" tvg-id="EuroNews.uk" tvg-name="EuroNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png" group-title="News Channels",EuroNews
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/216770
+#EXTINF:-1 tvg-chno="116" tvg-id="FOXBusiness.us" tvg-name="FOXBusiness.us" tvg-logo="http://mijn.me/logo/galery/foxbusiness.png" group-title="News Channels",FOX Business Network
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211364
+#EXTINF:-1 tvg-chno="117" tvg-id="FOXNews.us" tvg-name="FOXNews.us" tvg-logo="http://mijn.me/logo/galery/foxnews.png" group-title="News Channels",Fox News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlistwebvtt.m3u8
+#EXTINF:-1 tvg-chno="118" tvg-id="MSNBC.us" tvg-name="MSNBC.us" tvg-logo="http://mijn.me/logo/galery/msnbc.png" group-title="News Channels",MSNBC
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211368
+#EXTINF:-1 tvg-chno="119" tvg-id="NBC.us" tvg-name="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/210px-NBC_News_2011.svg.png" group-title="News Channels",NBC News Now
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 tvg-chno="120" tvg-id="OneAmericaNewsNetwork.us" tvg-name="OneAmericaNewsNetwork.us" tvg-logo="http://mijn.me/logo/galery/newsnetwork.png" group-title="News Channels",One America News Network
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211044
+#EXTINF:-1 tvg-chno="121" tvg-id="" tvg-name="RT English" tvg-logo="http://mijn.me/logo/galery/russiatoday.png" group-title="News Channels",RT English
+https://rt-glb.gcdn.co/live/rtnews/playlist_2500Kb.m3u8
+#EXTINF:-1 tvg-chno="122" tvg-id="SkyNews.uk" tvg-name="SkyNews.uk" tvg-logo="http://mijn.me/logo/galery/skynews.png" group-title="News Channels",Sky News
+https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
+#EXTINF:-1 tvg-chno="123" tvg-id="SkyArts1.uk" tvg-name="SkyArts1.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Sky_arts_2020.png/revision/latest/scale-to-width-down/78?cb=20200630162600" group-title="Sky Cinema",Sky Arts
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/117755
+#EXTINF:-1 tvg-chno="124" tvg-id="SkyMoviesActionandAdventure.uk" tvg-name="SkyMoviesActionandAdventure.uk" tvg-logo="http://mijn.me/logo/galery/skycinemaaction.png" group-title="Sky Cinema",Sky Cinema Action HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/117779
+#EXTINF:-1 tvg-chno="125" tvg-id="SkyCinemaAnimation.uk" tvg-name="SkyCinemaAnimation.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sky_Cinema_Animation_2020.svg/revision/latest/scale-to-width-down/350?cb=20211125131457" group-title="Sky Cinema",Sky Cinema Animation
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/117780
+#EXTINF:-1 tvg-chno="126" tvg-id="SkyComedy.uk" tvg-name="SkyComedy.uk" tvg-logo="http://mijn.me/logo/galery/skycinemacomedy.png" group-title="Sky Cinema",Sky Cinema Comedy HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9825
+#EXTINF:-1 tvg-chno="127" tvg-id="SkyMoviesDisney.uk" tvg-name="SkyMoviesDisney.uk" tvg-logo="http://mijn.me/logo/galery/skycinemadisney.png" group-title="Sky Cinema",Sky Cinema Disney HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9831
+#EXTINF:-1 tvg-chno="128" tvg-id="SkyMoviesDrama.uk" tvg-name="SkyMoviesDrama.uk" tvg-logo="http://mijn.me/logo/galery/skycinemadrama.png" group-title="Sky Cinema",Sky Cinema Drama HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/117776
+#EXTINF:-1 tvg-chno="129" tvg-id="SkyMoviesFamily.uk" tvg-name="SkyMoviesFamily.uk" tvg-logo="http://mijn.me/logo/galery/skycinemafamily-clivebesle.png" group-title="Sky Cinema",Sky Cinema Family HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9823
+#EXTINF:-1 tvg-chno="130" tvg-id="SkyMoviesModernGreats.uk" tvg-name="SkyMoviesModernGreats.uk" tvg-logo="http://mijn.me/logo/galery/skycinemagreats.png" group-title="Sky Cinema",Sky Cinema Greats HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/117777
+#EXTINF:-1 tvg-chno="131" tvg-id="SkyCinemaHits.uk" tvg-name="SkyCinemaHits.uk" tvg-logo="http://mijn.me/logo/galery/skycinemahits.png" group-title="Sky Cinema",Sky Cinema Hits HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/117775
+#EXTINF:-1 tvg-chno="132" tvg-id="SkyMoviesPremiere.uk" tvg-name="SkyMoviesPremiere.uk" tvg-logo="http://mijn.me/logo/galery/skycinemapremiere.png" group-title="Sky Cinema",Sky Cinema Premiere HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/117773
+#EXTINF:-1 tvg-chno="133" tvg-id="SkySciFiHorror.uk" tvg-name="SkySciFiHorror.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Sky_Cinema_Sci-Fi_Horror.svg/revision/latest/scale-to-width-down/78?cb=20200702154935" group-title="Sky Cinema",Sky Cinema Sci-Fi & Horror HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/117778
+#EXTINF:-1 tvg-chno="134" tvg-id="SkyMoviesSelect.uk" tvg-name="SkyMoviesSelect.uk" tvg-logo="http://mijn.me/logo/galery/skycinemaselect.png" group-title="Sky Cinema",Sky Cinema Select HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9821
+#EXTINF:-1 tvg-chno="135" tvg-id="SkyMoviesCrimeandThriller.uk" tvg-name="SkyMoviesCrimeandThriller.uk" tvg-logo="http://mijn.me/logo/galery/skycinemathriller.png" group-title="Sky Cinema",Sky Cinema Thriller HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/158491
+#EXTINF:-1 tvg-chno="136" tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://mijn.me/logo/galery/bbcone.png" group-title="UK Entertainment",BBC 1 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11347
+#EXTINF:-1 tvg-chno="137" tvg-id="BBC2.uk" tvg-name="BBC2.uk" tvg-logo="http://mijn.me/logo/galery/bbctwo.png" group-title="UK Entertainment",BBC 2 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11348
+#EXTINF:-1 tvg-chno="138" tvg-id="BBC4.uk" tvg-name="BBC4.uk" tvg-logo="http://mijn.me/logo/galery/cbeebies_bbcfour.png" group-title="UK Entertainment",BBC 4 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11354
+#EXTINF:-1 tvg-chno="139" tvg-id="Blaze.uk" tvg-name="Blaze.uk" tvg-logo="http://mijn.me/logo/galery/blaze.png" group-title="UK Entertainment",Blaze  HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/23665
+#EXTINF:-1 tvg-chno="140" tvg-id="CBSDrama.uk" tvg-name="CBSDrama.uk" tvg-logo="http://mijn.me/logo/galery/cbsaction.png" group-title="UK Entertainment",CBS   ACTION HD
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/94448
+#EXTINF:-1 tvg-chno="141" tvg-id="CBSDrama.uk" tvg-name="CBSDrama.uk" tvg-logo="http://mijn.me/logo/galery/cbsdrama.png" group-title="UK Entertainment",CBS  DRAMA HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11360
+#EXTINF:-1 tvg-chno="142" tvg-id="CBSReality.uk" tvg-name="CBSReality.uk" tvg-logo="http://mijn.me/logo/galery/cbsreality.png" group-title="UK Entertainment",CBS REALTY HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11108
+#EXTINF:-1 tvg-chno="143" tvg-id="Challenge.uk" tvg-name="Challenge.uk" tvg-logo="http://mijn.me/logo/galery/challenge.png" group-title="UK Entertainment",Challenge
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/32593
+#EXTINF:-1 tvg-chno="144" tvg-id="Dave.uk" tvg-name="Dave.uk" tvg-logo="http://mijn.me/logo/galery/dave.png" group-title="UK Entertainment",DAVE HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/25030
+#EXTINF:-1 tvg-chno="145" tvg-id="DMAX.uk" tvg-name="DMAX.uk" tvg-logo="http://mijn.me/logo/galery/dmax.png" group-title="UK Entertainment",DMAX HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11359
+#EXTINF:-1 tvg-chno="146" tvg-id="Eden.uk" tvg-name="Eden.uk" tvg-logo="http://mijn.me/logo/galery/eden.png" group-title="UK Entertainment",EDEN HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/39801
+#EXTINF:-1 tvg-chno="147" tvg-id="" tvg-name="FASHION  TV" tvg-logo="http://mijn.me/logo/galery/fashiontv.png" group-title="UK Entertainment",FASHION  TV
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/22517
+#EXTINF:-1 tvg-chno="148" tvg-id="GOLD.uk" tvg-name="GOLD.uk" tvg-logo="http://mijn.me/logo/galery/gold.png" group-title="UK Entertainment",GOLD  HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11350
+#EXTINF:-1 tvg-chno="149" tvg-id="ITV.uk" tvg-name="ITV.uk" tvg-logo="http://mijn.me/logo/galery/itv.png" group-title="UK Entertainment",ITV 1 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11114
+#EXTINF:-1 tvg-chno="150" tvg-id="ITV2.uk" tvg-name="ITV2.uk" tvg-logo="http://mijn.me/logo/galery/itv2.png" group-title="UK Entertainment",ITV 2 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/158532
+#EXTINF:-1 tvg-chno="151" tvg-id="ITV3.uk" tvg-name="ITV3.uk" tvg-logo="http://mijn.me/logo/galery/itv3.png" group-title="UK Entertainment",ITV 3 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11112
+#EXTINF:-1 tvg-chno="152" tvg-id="ITV4HD.uk" tvg-name="ITV4HD.uk" tvg-logo="http://mijn.me/logo/galery/itv4.png" group-title="UK Entertainment",ITV 4 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/117785
+#EXTINF:-1 tvg-chno="153" tvg-id="ITVBe.uk" tvg-name="ITVBe.uk" tvg-logo="http://mijn.me/logo/galery/itvbe.png" group-title="UK Entertainment",ITV Be HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/33581
+#EXTINF:-1 tvg-chno="154" tvg-id="Sky1.uk" tvg-name="Sky1.uk" tvg-logo="http://mijn.me/logo/galery/skyone.png" group-title="UK Entertainment",SKY 1 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/117772
+#EXTINF:-1 tvg-chno="155" tvg-id="Sky2.uk" tvg-name="Sky2.uk" tvg-logo="http://mijn.me/logo/galery/skytwo.png" group-title="UK Entertainment",SKY 2 HD
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/94424
+#EXTINF:-1 tvg-chno="156" tvg-id="" tvg-name="SKY LIVING HD" tvg-logo="http://mijn.me/logo/galery/skylink.png" group-title="UK Entertainment",SKY LIVING HD
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/94425
+#EXTINF:-1 tvg-chno="157" tvg-id="SonyMovies.uk" tvg-name="SonyMovies.uk" tvg-logo="http://mijn.me/logo/galery/sonymoviechannel.png" group-title="UK Entertainment",SONY MOVIE HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/117741
+#EXTINF:-1 tvg-chno="158" tvg-id="Syfy.uk" tvg-name="Syfy.uk" tvg-logo="http://mijn.me/logo/galery/syfy.png" group-title="UK Entertainment",SYFY HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11355
+#EXTINF:-1 tvg-chno="159" tvg-id="TCM.uk" tvg-name="TCM.uk" tvg-logo="http://mijn.me/logo/galery/tcm.png" group-title="UK Entertainment",TCM  HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/20935
+#EXTINF:-1 tvg-chno="160" tvg-id="TLC.uk" tvg-name="TLC.uk" tvg-logo="http://mijn.me/logo/galery/tlc.png" group-title="UK Entertainment",TLC HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11362
+#EXTINF:-1 tvg-chno="161" tvg-id="BTSport1.uk" tvg-name="BTSport1.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/BT_Sport_1_2019.svg/revision/latest/scale-to-width-down/250?cb=20191227182608" group-title="UK Sports",BT Sport 1 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/128229
+#EXTINF:-1 tvg-chno="162" tvg-id="LaLigaTV.uk" tvg-name="LaLigaTV.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/LaLiga_Santander_H_2018.svg/revision/latest/scale-to-width-down/400?cb=20220104152416" group-title="UK Sports",La Liga TV HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/128366
+#EXTINF:-1 tvg-chno="163" tvg-id="BTSport2.uk" tvg-name="BTSport2.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/BT_Sport_2_2019.svg/revision/latest/scale-to-width-down/250?cb=20191227182625" group-title="UK Sports",BT Sport 2 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9849
+#EXTINF:-1 tvg-chno="164" tvg-id="BTSport3.uk" tvg-name="BTSport3.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/BT_Sport_3.svg/revision/latest/scale-to-width-down/250?cb=20191227182642" group-title="UK Sports",BT Sport 3 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9847
+#EXTINF:-1 tvg-chno="165" tvg-id="BTSportESPN.uk" tvg-name="BTSportESPN.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/BT_Sport_ESPN_%282019%29.svg/revision/latest/scale-to-width-down/200?cb=20210205145927" group-title="UK Sports",BT Sport ESPN HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/23657
+#EXTINF:-1 tvg-chno="166" tvg-id="eirSport1.ie" tvg-name="eirSport1.ie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Eir_Sport_1.svg/revision/latest/scale-to-width-down/69?cb=20210506212836" group-title="UK Sports",EIR Sports 1 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9819
+#EXTINF:-1 tvg-chno="167" tvg-id="eirSport2.ie" tvg-name="eirSport2.ie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Eir_Sport_2.svg/revision/latest/scale-to-width-down/200?cb=20210506213151" group-title="UK Sports",EIR Sports 2 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9818
+#EXTINF:-1 tvg-chno="168" tvg-id="Eurosport1.uk" tvg-name="Eurosport1.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Eurosport_1.svg/revision/latest/scale-to-width-down/300?cb=20210911124742" group-title="UK Sports",Eurosport 1 HD
+http://ott4k.me:8000/50081010362823/30185276615626/22292
+#EXTINF:-1 tvg-chno="169" tvg-id="Eurosport2.uk" tvg-name="Eurosport2.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eurosport_2_%282015%29.svg/revision/latest/scale-to-width-down/78?cb=20171209134527" group-title="UK Sports",Eurosport 2 HD
+http://ott4k.me:8000/50081010362823/30185276615626/22291
+#EXTINF:-1 tvg-chno="170" tvg-id="LiverpoolFCTV.uk" tvg-name="LiverpoolFCTV.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Liverpool_FC_logo_%28introduced_2012%29.svg/revision/latest/scale-to-width-down/26?cb=20120705223744" group-title="UK Sports",Liverpool FC TV
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9844
+#EXTINF:-1 tvg-chno="171" tvg-id="MUTV.uk" tvg-name="MUTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="UK Sports",MUTV HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/56381
+#EXTINF:-1 tvg-chno="172" tvg-id="PremierSports.uk" tvg-name="PremierSports.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Premier_Sports_2021.svg/revision/latest/scale-to-width-down/250?cb=20210709144608" group-title="UK Sports",Premier Sports 1 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11364
+#EXTINF:-1 tvg-chno="173" tvg-id="PremierSports2.uk" tvg-name="PremierSports2.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Premier_Sports_2_2021.svg/revision/latest/scale-to-width-down/185?cb=20210709144618" group-title="UK Sports",Premier Sports 2 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/128365
+#EXTINF:-1 tvg-chno="174" tvg-id="SkySportsAction.uk" tvg-name="SkySportsAction.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/2560px-Sky_Sport_Action.svg.png" group-title="UK Sports",Sky Sports Action HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/127993
+#EXTINF:-1 tvg-chno="175" tvg-id="SkySportsArena.uk" tvg-name="SkySportsArena.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1280px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sports Arena HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/127992
+#EXTINF:-1 tvg-chno="176" tvg-id="SkySportsCricket.uk" tvg-name="SkySportsCricket.uk" tvg-logo="http://mijn.me/logo/galery/skysportscricket.png" group-title="UK Sports",Sky Sports Cricket HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/127991
+#EXTINF:-1 tvg-chno="177" tvg-id="SkySportsF1.uk" tvg-name="SkySportsF1.uk" tvg-logo="http://mijn.me/logo/galery/skysportf1-phibruspel.png" group-title="UK Sports",Sky Sports F1 HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/127990
+#EXTINF:-1 tvg-chno="178" tvg-id="SkySportsFootball.uk" tvg-name="SkySportsFootball.uk" tvg-logo="http://mijn.me/logo/galery/skysportfootball-phibruspel.png" group-title="UK Sports",Sky Sports Football HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/127989
+#EXTINF:-1 tvg-chno="179" tvg-id="SkySportsGolf.uk" tvg-name="SkySportsGolf.uk" tvg-logo="http://mijn.me/logo/galery/skysportgolf-phibruspel.png" group-title="UK Sports",Sky Sports Golf HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/127994
+#EXTINF:-1 tvg-chno="180" tvg-id="SkySportsMainEvent.uk" tvg-name="SkySportsMainEvent.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sports_Main_Event_2020.svg/revision/latest/scale-to-width-down/78?cb=20200924152245" group-title="UK Sports",Sky Sports Main Event HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24461
+#EXTINF:-1 tvg-chno="181" tvg-id="SkySportsMix.uk" tvg-name="SkySportsMix.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Sports_Mix_2020.svg/revision/latest/scale-to-width-down/78?cb=20200924152645" group-title="UK Sports",Sky Sports Mix HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/127986
+#EXTINF:-1 tvg-chno="182" tvg-id="SkySportsNews.uk" tvg-name="SkySportsNews.uk" tvg-logo="http://mijn.me/logo/galery/skysportnews.png" group-title="UK Sports",Sky Sports News HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24463
+#EXTINF:-1 tvg-chno="183" tvg-id="SkySportsPremierLeague.uk" tvg-name="SkySportsPremierLeague.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Sports_Premier_League_2020.svg/revision/latest/scale-to-width-down/78?cb=20200924152906" group-title="UK Sports",Sky Sports Premier League HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/127985
+#EXTINF:-1 tvg-chno="184" tvg-id="SkySportsRacing.uk" tvg-name="SkySportsRacing.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Sky_Sports_Racing_2020.svg/revision/latest/scale-to-width-down/78?cb=20200924152940" group-title="UK Sports",Sky Sports Racing HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/37959
+#EXTINF:-1 tvg-chno="185" tvg-id="ABC.us" tvg-name="ABC.us" tvg-logo="http://mijn.me/logo/galery/abc.png" group-title="US Entertainment",ABC HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/19382
+#EXTINF:-1 tvg-chno="186" tvg-id="AMC.us" tvg-name="AMC.us" tvg-logo="http://mijn.me/logo/galery/amc.png" group-title="US Entertainment",AMC HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/10056
+#EXTINF:-1 tvg-chno="187" tvg-id="BBCAmerica.us" tvg-name="BBCAmerica.us" tvg-logo="http://mijn.me/logo/galery/bbchd.png" group-title="US Entertainment",BBC America
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/15156
+#EXTINF:-1 tvg-chno="188" tvg-id="BET.us" tvg-name="BET.us" tvg-logo="http://mijn.me/logo/galery/bet.png" group-title="US Entertainment",BET
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/8237
+#EXTINF:-1 tvg-chno="189" tvg-id="BigTenNetwork.us" tvg-name="BigTenNetwork.us" tvg-logo="https://1000logos.net/wp-content/uploads/2017/09/Big-Ten-logo.png" group-title="US Entertainment",Big Ten Network
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11898
+#EXTINF:-1 tvg-chno="190" tvg-id="Bravo.us" tvg-name="Bravo.us" tvg-logo="http://mijn.me/logo/galery/bravo.png" group-title="US Entertainment",Bravo
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/8261
+#EXTINF:-1 tvg-chno="191" tvg-id="CBSNY.us" tvg-name="CBSNY.us" tvg-logo="http://mijn.me/logo/galery/cbs.png" group-title="US Entertainment",CBS Network
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211156
+#EXTINF:-1 tvg-chno="192" tvg-id="Cinemax.us" tvg-name="Cinemax.us" tvg-logo="http://mijn.me/logo/galery/cinemax.png" group-title="US Entertainment",Cinemax FHD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11916
+#EXTINF:-1 tvg-chno="193" tvg-id="DogTV.us" tvg-name="DogTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/DOGTV_LOGO.jpg" group-title="US Entertainment",DOG TV
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211422
+#EXTINF:-1 tvg-chno="194" tvg-id="HallmarkDrama.us" tvg-name="HallmarkDrama.us" tvg-logo="http://mijn.me/logo/galery/drama.png" group-title="US Entertainment",Drama
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211043
+#EXTINF:-1 tvg-chno="195" tvg-id="EPIX.us" tvg-name="EPIX.us" tvg-logo="https://www.kindpng.com/picc/m/404-4040911_epix-logo-epix-tv-logo-hd-png-download.png" group-title="US Entertainment",Epix
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/15176
+#EXTINF:-1 tvg-chno="196" tvg-id="FXX.us" tvg-name="FXX.us" tvg-logo="http://mijn.me/logo/galery/cinefx.png" group-title="US Entertainment",FXX
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17306
+#EXTINF:-1 tvg-chno="197" tvg-id="HallmarkChannel.us" tvg-name="HallmarkChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hallmark_logo.svg/2560px-Hallmark_logo.svg.png" group-title="US Entertainment",Hallmark
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9691
+#EXTINF:-1 tvg-chno="198" tvg-id="HBO2.us" tvg-name="HBO2.us" tvg-logo="http://mijn.me/logo/galery/hbo2.png" group-title="US Entertainment",HBO HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/8262
+#EXTINF:-1 tvg-chno="199" tvg-id="HGTV.us" tvg-name="HGTV.us" tvg-logo="http://mijn.me/logo/galery/hgtv.png" group-title="US Entertainment",HGTV
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/15181
+#EXTINF:-1 tvg-chno="200" tvg-id="Lifetime.us" tvg-name="Lifetime.us" tvg-logo="http://mijn.me/logo/galery/lifetime.png" group-title="US Entertainment",Lifetime
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/23829
+#EXTINF:-1 tvg-chno="201" tvg-id="OWN.us" tvg-name="OWN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1280px-OWN_2011_logo.svg.png" group-title="US Entertainment",OWN HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/8241
+#EXTINF:-1 tvg-chno="202" tvg-id="ParamountNetwork.us" tvg-name="ParamountNetwork.us" tvg-logo="http://mijn.me/logo/galery/paramountchannel.png" group-title="US Entertainment",Paramount
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17305
+#EXTINF:-1 tvg-chno="203" tvg-id="Revolt.us" tvg-name="Revolt.us" tvg-logo="http://mijn.me/logo/galery/revolt.png" group-title="US Entertainment",Revolt
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/15174
+#EXTINF:-1 tvg-chno="204" tvg-id="Showtime.us" tvg-name="Showtime.us" tvg-logo="http://mijn.me/logo/galery/showtime.png" group-title="US Entertainment",Showtime HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/10877
+#EXTINF:-1 tvg-chno="205" tvg-id="SonyMovieChannel.us" tvg-name="SonyMovieChannel.us" tvg-logo="http://mijn.me/logo/galery/sonymoviechannel.png" group-title="US Entertainment",Sony Movies
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24688
+#EXTINF:-1 tvg-chno="206" tvg-id="TNT.us" tvg-name="TNT.us" tvg-logo="http://mijn.me/logo/galery/tnt.png" group-title="US Entertainment",TNT HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11580
+#EXTINF:-1 tvg-chno="207" tvg-id="TCM.us" tvg-name="TCM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1280px-TCM_logo.svg.png" group-title="US Entertainment",Turner Classic Movies
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17445
+#EXTINF:-1 tvg-chno="208" tvg-id="USANetwork.us" tvg-name="USANetwork.us" tvg-logo="http://mijn.me/logo/galery/usanetwork.png" group-title="US Entertainment",USA Network
+http://jjkdomain123.one:80/Charlie/Charlie/219814
+#EXTINF:-1 tvg-chno="209" tvg-id="VICELAND.us" tvg-name="VICELAND.us" tvg-logo="http://mijn.me/logo/galery/viceland.png" group-title="US Entertainment",VICELAND
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9665
+#EXTINF:-1 tvg-chno="210" tvg-id="beINSports.us" tvg-name="beINSports.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg" group-title="US Sports Channels",beIN Sports USA HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9693
+#EXTINF:-1 tvg-chno="211" tvg-id="CBSSportsNetwork.us" tvg-name="CBSSportsNetwork.us" tvg-logo="https://e7.pngegg.com/pngimages/748/41/png-clipart-arena-football-league-cbs-sports-network-television-cbssports-com-stay-tuned-miscellaneous-television.png" group-title="US Sports Channels",CBS Sports Network
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/8245
+#EXTINF:-1 tvg-chno="212" tvg-id="ESPN.us" tvg-name="ESPN.us" tvg-logo="http://mijn.me/logo/galery/espn.png" group-title="US Sports Channels",ESPN
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9660
+#EXTINF:-1 tvg-chno="213" tvg-id="ESPN2.us" tvg-name="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="US Sports Channels",ESPN 2 FHD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/42910
+#EXTINF:-1 tvg-chno="214" tvg-id="ESPNNews.us" tvg-name="ESPNNews.us" tvg-logo="https://cutewallpaper.org/24/espn-logo-png/http-espn-news-channel-logo-png-clipart-489705-pikpng.png" group-title="US Sports Channels",ESPN News
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/42908
+#EXTINF:-1 tvg-chno="215" tvg-id="ESPNU.us" tvg-name="ESPNU.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1024px-ESPN_U_logo.svg.png" group-title="US Sports Channels",ESPN U HD
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/42907
+#EXTINF:-1 tvg-chno="216" tvg-id="FOXSoccerPlus.us" tvg-name="FOXSoccerPlus.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="US Sports Channels",Fox Soccer Plus
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9661
+#EXTINF:-1 tvg-chno="217" tvg-id="FOXSports1.us" tvg-name="FOXSports1.us" tvg-logo="http://mijn.me/logo/galery/foxsports1.png" group-title="US Sports Channels",Fox Sports 1
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211355
+#EXTINF:-1 tvg-chno="218" tvg-id="FOXSports2.us" tvg-name="FOXSports2.us" tvg-logo="http://mijn.me/logo/galery/foxsports2.png" group-title="US Sports Channels",Fox Sports 2
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211383
+#EXTINF:-1 tvg-chno="219" tvg-id="MarqueeSportsNetwork.us" tvg-name="MarqueeSportsNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/1200px-Marquee_Sports_Network_Logo.svg.png" group-title="US Sports Channels",Marquee Sports Network
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211248
+#EXTINF:-1 tvg-chno="220" tvg-id="NBA.us" tvg-name="NBA.us" tvg-logo="http://mijn.me/logo/galery/nbatv.png" group-title="US Sports Channels",NBA HD
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211341
+#EXTINF:-1 tvg-chno="221" tvg-id="GolfChannel.us" tvg-name="GolfChannel.us" tvg-logo="http://mijn.me/logo/galery/nbcsportsnetwork.png" group-title="US Sports Channels",NBC Golf Channel
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211356
+#EXTINF:-1 tvg-chno="222" tvg-id="NBCSports.us" tvg-name="NBCSports.us" tvg-logo="http://mijn.me/logo/galery/nbcsportsnetworkhd.png" group-title="US Sports Channels",NBC Sports Network HD
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211057
+#EXTINF:-1 tvg-chno="223" tvg-id="OlympicChannel.us" tvg-name="OlympicChannel.us" tvg-logo="http://mijn.me/logo/galery/bbcsportolympics.png" group-title="US Sports Channels",Olympic Channel
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211262
+#EXTINF:-1 tvg-chno="224" tvg-id="SECNetwork.us" tvg-name="SECNetwork.us" tvg-logo="https://www.pngfind.com/pngs/m/683-6831955_sec-network-sec-network-logo-transparent-hd-png.png" group-title="US Sports Channels",SEC Network
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211349
+#EXTINF:-1 tvg-chno="225" tvg-id="Stadium.us" tvg-name="Stadium.us" tvg-logo="http://mijn.me/logo/galery/ustad.png" group-title="US Sports Channels",Stadium
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211372
+#EXTINF:-1 tvg-chno="226" tvg-id="TennisChannel.us" tvg-name="TennisChannel.us" tvg-logo="https://cdn.mos.cms.futurecdn.net/nnbWtFDt8Y9wuHdR9AJxCF.png" group-title="US Sports Channels",Tennis Channel
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211359
+#EXTINF:-1 tvg-chno="227" tvg-id="GolfChannel.us" tvg-name="GolfChannel.us" tvg-logo="http://mijn.me/logo/galery/golfchannel.png" group-title="US Sports Channels",The Golf Channel
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211073
+#EXTINF:-1 tvg-chno="228" tvg-id="TSN2.ca" tvg-name="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/1280px-TSN2_New_Logo.svg.png" group-title="US Sports Channels",TSN 2 HD
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211258
+#EXTINF:-1 tvg-chno="229" tvg-id="TSN3.ca" tvg-name="TSN3.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/2560px-TSN3.svg.png" group-title="US Sports Channels",TSN 3 HD
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211259
+#EXTINF:-1 tvg-chno="230" tvg-id="TSN4.ca" tvg-name="TSN4.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png" group-title="US Sports Channels",TSN 4 HD
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211260
+#EXTINF:-1 tvg-chno="231" tvg-id="TSN5.ca" tvg-name="TSN5.ca" tvg-logo="" group-title="US Sports Channels",TSN 5 HD
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211261
+#EXTINF:-1 tvg-chno="232" tvg-id="TyCSports.us" tvg-name="TyCSports.us" tvg-logo="http://mijn.me/logo/galery/esportstv.png" group-title="US Sports Channels",TyC Sports
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211360
+#EXTINF:-1 tvg-chno="233" tvg-id="" tvg-name="UFC TV HD" tvg-logo="https://img.ibxk.com.br/2013/12/programas/8011411175743506.png" group-title="US Sports Channels",UFC TV HD
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211247
+#EXTINF:-1 tvg-chno="234" tvg-id="Wwe.us" tvg-name="Wwe.us" tvg-logo="http://mijn.me/logo/galery/wwenetwork.png" group-title="US Sports Channels",WWE
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/101219
+#EXTINF:-1 tvg-chno="235" tvg-id="Wwe.us" tvg-name="Wwe.us" tvg-logo="http://mijn.me/logo/galery/wwenetwork.png" group-title="US Sports Channels",WWE RAW
+http://nett-tv.vip:8000/o5z85pccf8/zdzbmbcryh/211122
